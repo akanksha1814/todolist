@@ -21,3 +21,7 @@ To use the To-Do List application locally:
 1. Clone this repository:
    ```bash
    git clone <https://github.com/akanksha1814/todolist>
+
+Navigate into the project directory:
+```bash
+cd to-do-list
